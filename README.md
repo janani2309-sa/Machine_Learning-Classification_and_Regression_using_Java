@@ -1,6 +1,6 @@
 ## Machine Learning: Classification and Regression using Java
 
-This GitHub repository contains two projects developed in Java that focuses on Machine Learning techniques of classification and regression.
+This GitHub repository contains two elementary projects developed in Java that focuses on Machine Learning techniques of classification and regression.
 
 ### Classification:
 Classification is a type of supervised machine learning task where the goal is to assign a label or category to an input data point based on its features. In the context of the Email Spam Classifier project, the task is to classify emails as either "spam" or "not spam" based on the content of the email. Classification algorithms learn from labeled training data, where each data point has a corresponding class label.
