@@ -26,21 +26,6 @@ Regression, also a supervised learning task, involves predicting a continuous va
 
 One popular regression algorithm is Simple Linear Regression. It deals with predicting a continuous value y (dependent variable) based on a single input feature x (independent variable).
 
-Simple Linear Regression Formula:
-The simple linear regression model represents a linear relationship between the input feature x and the output y.
-
-The equation for simple linear regression can be written as:
-
-# y = β0 + β1 * x + ε
-
-### where:
-
-##### y is the predicted output (tip amount).
-##### x is the input feature (gender of the waiter, typically encoded as 0 or 1).
-##### β0 is the intercept (bias) term of the model.
-##### β1 is the coefficient (weight) associated with the feature x.
-##### ε represents the error term (residual) that accounts for the discrepancy between the predicted value and the actual value.
-##### During the training process, the model estimates the values of β0 and β1 that best fit the data and minimize the error.
 
 ## Project 2: Linear Regression Model
 
